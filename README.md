@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RNDY20
 - 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Simple Project
+- 💞️ I’m looking to collaborate on Simple Web Project
 - 📫 How to reach me 0881024185459 (whatsapp)
 
 <!---
