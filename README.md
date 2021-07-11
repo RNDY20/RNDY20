@@ -1,6 +1,6 @@
 <h1>Hi there, i'm Rendy Ramadhan</h1>
 
-<p>I'm a Student and Linux Enthusiast</p>
+<p>a Student at Vocational High School 1 Jakarta</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndy20&layout=compact)](https://github.com/rndy20/github-readme-stats)
